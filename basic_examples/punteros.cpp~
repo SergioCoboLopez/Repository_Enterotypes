@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main () {
+  int  var;
+  int  *ptr;
+  int  val;
+
+  var = 3000;
+
+  // take the address of var
+  //  ptr = &var; //---> Asignas a "ptr" la direccion de memoria de "var"
+
+  // take the value available at ptr
+  val = *ptr; //---> Asignas a "val" el valor de "var". Es decir, de aquello a lo que apunta "*ptr"
+
+  cout << "Value of var :" << var << endl;
+  // cout << "Value of ptr :" << ptr << endl;
+  cout << "Value of ptr :" << &var << endl;
+  // cout << "Value of val :" << val << endl;
+  cout << "Value of val :" << *var << endl;
+
+  return 0;
+}

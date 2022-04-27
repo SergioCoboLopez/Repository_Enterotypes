@@ -1,0 +1,627 @@
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+S-8_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+S-8_Tot
+
+S-8_Tot
+
+S-8_Tot
+
+S-8_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+
+S-8_Tot
+1 s__Clostridium_bartlettii
+2 s__Clostridium_bolteae
+3 s__Clostridium_clostridioforme
+4 s__Clostridium_hathewayi
+5 s__Clostridium_leptum
+6 s__Clostridium_nexile
+7 s__Eubacterium_eligens
+8 s__Eubacterium_hallii
+9 s__Eubacterium_rectale
+10 s__Eubacterium_siraeum
+11 s__Ruminococcus_obeum
+
+V-10_Tot
+1 s__Clostridium_bartlettii
+2 s__Clostridium_bolteae
+3 s__Clostridium_clostridioforme
+4 s__Clostridium_hathewayi
+5 s__Clostridium_leptum
+6 s__Clostridium_nexile
+7 s__Eubacterium_dolichum
+8 s__Eubacterium_eligens
+9 s__Eubacterium_hallii
+10 s__Eubacterium_rectale
+11 s__Eubacterium_siraeum
+12 s__Ruminococcus_obeum
+
+V-22_Tot
+1 s__Clostridium_bartlettii
+2 s__Clostridium_bolteae
+3 s__Clostridium_hathewayi
+4 s__Clostridium_leptum
+5 s__Eubacterium_eligens
+6 s__Eubacterium_hallii
+7 s__Eubacterium_rectale
+8 s__Eubacterium_siraeum
+9 s__Ruminococcus_obeum
+
+V-23_24_Tot
+1 s__Clostridium_bartlettii
+2 s__Clostridium_bolteae
+3 s__Clostridium_hathewayi
+4 s__Clostridium_leptum
+5 s__Eubacterium_eligens
+6 s__Eubacterium_hallii
+7 s__Eubacterium_rectale
+8 s__Eubacterium_siraeum
+9 s__Ruminococcus_obeum
+
+V-25_Tot
+1 s__Bacteroides_pectinophilus
+2 s__Clostridium_bartlettii
+3 s__Clostridium_bolteae
+4 s__Clostridium_hathewayi
+5 s__Clostridium_leptum
+6 s__Clostridium_nexile
+7 s__Eubacterium_eligens
+8 s__Eubacterium_hallii
+9 s__Eubacterium_rectale
+10 s__Eubacterium_siraeum
+11 s__Ruminococcus_obeum
+
+Total
+0 s__Clostridium_bartlettii
+1 s__Clostridium_bolteae
+2 s__Clostridium_clostridioforme
+3 s__Clostridium_hathewayi
+4 s__Clostridium_leptum
+5 s__Clostridium_nexile
+6 s__Eubacterium_eligens
+7 s__Eubacterium_hallii
+8 s__Eubacterium_rectale
+9 s__Eubacterium_siraeum
+10 s__Ruminococcus_obeum
+11 s__Eubacterium_dolichum
+12 s__Bacteroides_pectinophilus
+
+S-8_Tot
+1 s__Actinomyces_odontolyticus
+2 s__Actinomyces_turicensis
+3 s__Alistipes_sp_AP11
+4 s__Bacteroidales_bacterium_ph8
+5 s__Clostridiaceae_bacterium_JC118
+6 s__Clostridium_asparagiforme
+7 s__Clostridium_bartlettii
+8 s__Clostridium_bolteae
+9 s__Clostridium_citroniae
+10 s__Clostridium_clostridioforme
+11 s__Clostridium_hathewayi
+12 s__Clostridium_leptum
+13 s__Clostridium_nexile
+14 s__Clostridium_symbiosum
+15 s__Coprococcus_sp_ART55_1
+16 s__Eubacterium_biforme
+17 s__Eubacterium_eligens
+18 s__Eubacterium_hallii
+19 s__Eubacterium_rectale
+20 s__Eubacterium_siraeum
+21 s__Ruminococcus_gnavus
+22 s__Ruminococcus_obeum
+23 s__Ruminococcus_torques
+24 s__Streptococcus_mitis_oralis_pneumoniae
+
+V-10_Tot
+1 s__Alistipes_sp_AP11
+2 s__Bacteroidales_bacterium_ph8
+3 s__Bacteroides_sp_2_1_22
+4 s__Bacteroides_sp_3_1_19
+5 s__Clostridiaceae_bacterium_JC118
+6 s__Clostridium_asparagiforme
+7 s__Clostridium_bartlettii
+8 s__Clostridium_bolteae
+9 s__Clostridium_citroniae
+10 s__Clostridium_clostridioforme
+11 s__Clostridium_hathewayi
+12 s__Clostridium_leptum
+13 s__Clostridium_nexile
+14 s__Clostridium_ramosum
+15 s__Clostridium_sp_L2_50
+16 s__Clostridium_symbiosum
+17 s__Coprococcus_sp_ART55_1
+18 s__Eubacterium_biforme
+19 s__Eubacterium_dolichum
+20 s__Eubacterium_eligens
+21 s__Eubacterium_hallii
+22 s__Eubacterium_rectale
+23 s__Eubacterium_siraeum
+24 s__Oscillibacter_sp_KLE_1745
+25 s__Ruminococcus_gnavus
+26 s__Ruminococcus_obeum
+27 s__Ruminococcus_sp_5_1_39BFAA
+28 s__Ruminococcus_torques
+
+V-22_Tot
+1 s__Actinomyces_odontolyticus
+2 s__Bacteroidales_bacterium_ph8
+3 s__Clostridium_bartlettii
+4 s__Clostridium_bolteae
+5 s__Clostridium_hathewayi
+6 s__Clostridium_innocuum
+7 s__Clostridium_leptum
+8 s__Clostridium_ramosum
+9 s__Clostridium_sp_L2_50
+10 s__Clostridium_symbiosum
+11 s__Coprococcus_sp_ART55_1
+12 s__Eubacterium_biforme
+13 s__Eubacterium_cylindroides
+14 s__Eubacterium_eligens
+15 s__Eubacterium_hallii
+16 s__Eubacterium_rectale
+17 s__Eubacterium_siraeum
+18 s__Pseudoflavonifractor_capillosus
+19 s__Ruminococcus_gnavus
+20 s__Ruminococcus_obeum
+21 s__Ruminococcus_sp_5_1_39BFAA
+22 s__Ruminococcus_torques
+
+V-23_24_Tot
+1 s__Alistipes_sp_AP11
+2 s__Alistipes_sp_HGB5
+3 s__Bacteroidales_bacterium_ph8
+4 s__Bacteroides_sp_2_1_22
+5 s__Clostridiaceae_bacterium_JC118
+6 s__Clostridium_bartlettii
+7 s__Clostridium_bolteae
+8 s__Clostridium_hathewayi
+9 s__Clostridium_leptum
+10 s__Clostridium_sp_L2_50
+11 s__Clostridium_symbiosum
+12 s__Coprococcus_sp_ART55_1
+13 s__Eubacterium_biforme
+14 s__Eubacterium_eligens
+15 s__Eubacterium_hallii
+16 s__Eubacterium_rectale
+17 s__Eubacterium_siraeum
+18 s__Eubacterium_sp_3_1_31
+19 s__Oscillibacter_sp_KLE_1745
+20 s__Ruminococcus_gnavus
+21 s__Ruminococcus_obeum
+22 s__Ruminococcus_sp_5_1_39BFAA
+23 s__Ruminococcus_torques
+24 s__Streptococcus_mitis_oralis_pneumoniae
+25 s__Subdoligranulum_sp_4_3_54A2FAA
+
+V-25_Tot
+1 s__Alistipes_sp_AP11
+2 s__Bacteroidales_bacterium_ph8
+3 s__Bacteroides_pectinophilus
+4 s__Bacteroides_sp_2_1_22
+5 s__Clostridiaceae_bacterium_JC118
+6 s__Clostridium_asparagiforme
+7 s__Clostridium_bartlettii
+8 s__Clostridium_bolteae
+9 s__Clostridium_citroniae
+10 s__Clostridium_hathewayi
+11 s__Clostridium_leptum
+12 s__Clostridium_nexile
+13 s__Clostridium_sp_L2_50
+14 s__Clostridium_symbiosum
+15 s__Coprococcus_sp_ART55_1
+16 s__Eubacterium_biforme
+17 s__Eubacterium_eligens
+18 s__Eubacterium_hallii
+19 s__Eubacterium_rectale
+20 s__Eubacterium_siraeum
+21 s__Pseudoflavonifractor_capillosus
+22 s__Ruminococcus_gnavus
+23 s__Ruminococcus_obeum
+24 s__Ruminococcus_sp_5_1_39BFAA
+25 s__Ruminococcus_torques
+
+Total
+0 s__Actinomyces_odontolyticus
+1 s__Actinomyces_turicensis
+2 s__Alistipes_sp_AP11
+3 s__Bacteroidales_bacterium_ph8
+4 s__Clostridiaceae_bacterium_JC118
+5 s__Clostridium_asparagiforme
+6 s__Clostridium_bartlettii
+7 s__Clostridium_bolteae
+8 s__Clostridium_citroniae
+9 s__Clostridium_clostridioforme
+10 s__Clostridium_hathewayi
+11 s__Clostridium_leptum
+12 s__Clostridium_nexile
+13 s__Clostridium_symbiosum
+14 s__Coprococcus_sp_ART55_1
+15 s__Eubacterium_biforme
+16 s__Eubacterium_eligens
+17 s__Eubacterium_hallii
+18 s__Eubacterium_rectale
+19 s__Eubacterium_siraeum
+20 s__Ruminococcus_gnavus
+21 s__Ruminococcus_obeum
+22 s__Ruminococcus_torques
+23 s__Streptococcus_mitis_oralis_pneumoniae
+24 s__Bacteroides_sp_2_1_22
+25 s__Bacteroides_sp_3_1_19
+26 s__Clostridium_ramosum
+27 s__Clostridium_sp_L2_50
+28 s__Eubacterium_dolichum
+29 s__Oscillibacter_sp_KLE_1745
+30 s__Ruminococcus_sp_5_1_39BFAA
+31 s__Clostridium_innocuum
+32 s__Eubacterium_cylindroides
+33 s__Pseudoflavonifractor_capillosus
+34 s__Alistipes_sp_HGB5
+35 s__Eubacterium_sp_3_1_31
+36 s__Subdoligranulum_sp_4_3_54A2FAA
+37 s__Bacteroides_pectinophilus
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+Total
+0 s__Actinomyces_odontolyticus
+1 s__Actinomyces_turicensis
+2 s__Alistipes_sp_AP11
+3 s__Bacteroidales_bacterium_ph8
+4 s__Clostridiaceae_bacterium_JC118
+5 s__Clostridium_asparagiforme
+6 s__Clostridium_bartlettii
+7 s__Clostridium_bolteae
+8 s__Clostridium_citroniae
+9 s__Clostridium_clostridioforme
+10 s__Clostridium_hathewayi
+11 s__Clostridium_leptum
+12 s__Clostridium_nexile
+13 s__Clostridium_symbiosum
+14 s__Coprococcus_sp_ART55_1
+15 s__Eubacterium_biforme
+16 s__Eubacterium_eligens
+17 s__Eubacterium_hallii
+18 s__Eubacterium_rectale
+19 s__Eubacterium_siraeum
+20 s__Ruminococcus_gnavus
+21 s__Ruminococcus_obeum
+22 s__Ruminococcus_torques
+23 s__Streptococcus_mitis_oralis_pneumoniae
+24 s__Bacteroides_sp_2_1_22
+25 s__Bacteroides_sp_3_1_19
+26 s__Clostridium_ramosum
+27 s__Clostridium_sp_L2_50
+28 s__Eubacterium_dolichum
+29 s__Oscillibacter_sp_KLE_1745
+30 s__Ruminococcus_sp_5_1_39BFAA
+31 s__Clostridium_innocuum
+32 s__Eubacterium_cylindroides
+33 s__Pseudoflavonifractor_capillosus
+34 s__Alistipes_sp_HGB5
+35 s__Eubacterium_sp_3_1_31
+36 s__Subdoligranulum_sp_4_3_54A2FAA
+37 s__Bacteroides_pectinophilus
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot
+
+S-8_Tot
+
+V-10_Tot
+
+V-22_Tot
+
+V-23_24_Tot
+
+V-25_Tot

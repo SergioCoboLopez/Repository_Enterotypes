@@ -1,0 +1,7 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int fila;
+int columna;
+ifstream in("/export/home/shared/Projects/Microbiome/Input_Data/micro_dataset.txt", ios::in);
