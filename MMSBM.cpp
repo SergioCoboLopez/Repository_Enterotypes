@@ -268,7 +268,6 @@ int main(int argc, char *argv[])
   if (Exec=="local"){
     
     InputPath="/home/sergio/work/Tarragona/Microbiome/Input_Data/" + Dataset;
-    
     OutputPath="/home/sergio/work/Tarragona/Microbiome/Output_Data/" + Output;
   }
   else {cout<<"you have to choose an execution mode"<<endl;
@@ -293,7 +292,7 @@ int main(int argc, char *argv[])
   //1.2. Make lists of abundance-person-microbe and lists of Nans
   //=============================================================================================
   
-  //1.2.1.Compute number of slices of the cube (hypermatrix). This number is the number of types of links
+  //1.2.1.Compute number of slices of cube (hypermatrix). This is the number of types of links
   //------------------------------------------------------------------------
   int Links= Data.max() - Data.min() +1;
   //------------------------------------------------------------------------
@@ -420,8 +419,8 @@ int main(int argc, char *argv[])
   std::string strL = std::to_string(L);
 
   ofstream OutputLogLikelihood;
-  OutputLogLikelihood.open(OutputPath + FoldNumber + "_" +"Seed_"+ strSeed + "_" + "K_"+strK+ "_" + "L_"+ strL \
-  			   +"_LogLikelihood_Test.txt");
+  OutputLogLikelihood.open(OutputPath + FoldNumber + "_" +\
+  "Seed_"+ strSeed + "_" + "K_"+strK+ "_" + "L_"+ strL +"_LogLikelihood_Test.txt");
 
   OutputLogLikelihood<< LMemory <<endl;
 
